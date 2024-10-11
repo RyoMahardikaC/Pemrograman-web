@@ -1,0 +1,507 @@
+.landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .div {
+    background-color: #ffffff;
+    width: 1280px;
+    height: 1048px;
+    position: relative;
+  }
+  
+  .landing-page .body {
+    position: absolute;
+    width: 1280px;
+    height: 677px;
+    top: 112px;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+    border: 0 none;
+  }
+  
+  .landing-page .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 270px;
+    height: 83px;
+    top: 699px;
+    left: 869px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .landing-page .overlap-group {
+    position: relative;
+    height: 83px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+}
+  
+  .landing-page .learn-more {
+    position: absolute;
+    height: 39px;
+    top: 20px;
+    left: 42px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: -0.48px;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap {
+    position: absolute;
+    width: 1003px;
+    height: 651px;
+    top: 13px;
+    left: 59px;
+  }
+  
+  .landing-page .DPM-adalah-lembaga {
+    position: absolute;
+    width: 764px;
+    height: 104px;
+    top: 148px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: -0.21px;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper {
+    letter-spacing: -0.03px;
+  }
+  
+  .landing-page .span {
+    font-size: 15px;
+    letter-spacing: -0.03px;
+  }
+  
+  .landing-page .LOGO-BARU-DPM-FK {
+    position: absolute;
+    width: 844px;
+    height: 651px;
+    top: 0;
+    left: 159px;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    height: 29px;
+    top: 119px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.36px;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: absolute;
+    height: 29px;
+    top: 262px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.36px;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: absolute;
+    height: 29px;
+    top: 363px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.36px;
+    line-height: normal;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    width: 753px;
+    height: 60px;
+    top: 290px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: -0.21px;
+    line-height: normal;
+  }
+  
+  .landing-page .element-mengoptimalkan {
+    position: absolute;
+    width: 788px;
+    height: 190px;
+    top: 377px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: -0.21px;
+    line-height: normal;
+  }
+  
+  .landing-page .overlap-2{
+    position: absolute;
+    width: 1280px;
+    height: 79px;
+    top: -2px;
+    left: 0;
+  }
+  
+  .landing-page .header {
+    position: absolute;
+    width: 1280px;
+    height: 79px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .landing-page .overlap-3 {
+    position: relative;
+    width: 1282px;
+    height: 79px;
+  }
+  
+  .landing-page .navigation-bar {
+    position: fixed;
+    width: 100%;
+    height: 79px;
+    top: 0;
+    left: 0;
+    background-color: #fbed2b;
+    z-index: 1000;
+  }
+  
+  .landing-page .universitas-negeri {
+    position: absolute;
+    height: 39px;
+    top: 18px;
+    left: 106px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: -0.24px;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    letter-spacing: -0.04px;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    font-size: 32px;
+    letter-spacing: -0.15px;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    position: absolute;
+    height: 18px;
+    top: 21px;
+    left: 106px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: -0.23px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    position: absolute;
+    height: 24px;
+    top: 26px;
+    left: 550px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    height: 24px;
+    top: 26px;
+    left: 707px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    position: absolute;
+    height: 24px;
+    top: 28px;
+    left: 872px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-11 {
+    position: absolute;
+    height: 24px;
+    top: 26px;
+    left: 1117px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: -0.3px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page .image {
+    position: absolute;
+    width: 53px;
+    height: 61px;
+    top: 8px;
+    left: 49px;
+    
+  }
+
+  .landing-page .footer {
+    position: absolute;
+    width: 1280px;
+    height: 216px;
+    top: 832px;
+    left: 0;
+    background-color: #ffffff;
+    border: 0px none;
+  }
+
+  .landing-page .overlap-4 {
+    position: absolute;
+    top: 91px;
+    left: 15px;
+    width: 175px;
+    height: 57px;
+ }
+
+  .landing-page .text-wrapper-12 {
+    position: absolute;
+    width: 173px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+ }
+
+ .landing-page .text-wrapper-13 {
+    position: absolute;
+    width: 175px;
+    top: 17px;
+    left: 0;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: -0.15px;
+    line-height: 24px;
+ }
+
+ .landing-page .text-wrapper-14 {
+    position: absolute;
+    top: 38px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: -0.15px;
+    line-height: 24px;
+    white-space: nowrap;
+    }
+  
+ .landing-page .text-wrapper-15 {
+    position: absolute;
+    width: 173;
+    top: 38px;
+    left: 451px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+ }
+
+.landing-page .overlap-5 {
+    position: absolute;
+    top: 38px;
+    left: 690px;
+    width: 258px;
+    height: 24px;
+ }
+
+.landing-page .text-wrapper-16 {
+    position: absolute;
+    width:36px;
+    top: 38px;
+    left: 899px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-17 {
+    position: absolute;
+    width: 71px;
+    top: 38px;
+    left: 690px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+ }
+
+ .landing-page .text-wrapper-18 {
+    position: absolute;
+    width: 84px;
+    top: 38px;
+    left: 1080px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 15px;
+    text-align: right;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+
+}
+
+.landing-page .vector {
+    position: absolute;
+    width: 1280px;
+    height: 1px;
+    top: 0;
+    left: 0;
+}
+
+ .landing-page .img {
+    position: absolute;
+    width: 69px;
+    height: 66px;
+    top: 17px;
+    left: 32px;
+    object-fit: cover;
+ }
+
+ .landing-page .text-wrapper-19 {
+    position: absolute;
+    width: 301px;
+    top: 174px;
+    left: 503px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000cc;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: -0.23px;
+    line-height: 24px;
+    white-space: nowrap;
+ }
+
+.landing-page .contact-details {
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+    align-items: flex-start;
+    gap: 20px;
+    position: absolute;
+    top: 83px;
+    left: 1041px;
+}
+ 
+.landing-page .div-2 {
+    display: flex;
+    width: 465px;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -245px;
+}
+ 
+ .landing-page .img-2{
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+ .landing-page .text-wrapper-20 {
+    position: relative;
+    flex: 1;
+    margin-top: -1px;
+    font-family: var(--body-m-font-family);
+    font-weight: var(--body-m-font-weight);
+    color: var(--onboarding-background-grey);
+    font-size: var(--body-m-font-size);
+    letter-spacing: var(--body-m-letter-spacing);
+    line-height: var(--body-m-line-height);
+    font-style: var(--body-m-font-style);
+}
